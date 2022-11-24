@@ -1,4 +1,5 @@
 # 神獸之恥
+## 可以下載封包過的神獸之恥.exe或是神獸之恥.zip來遊玩此遊戲
 ## 使用語言：Python
 ## 程式編譯器：Visual Studio Code
 ## 使用的類別庫：Pygame
